@@ -22,6 +22,5 @@ public class BasicScanner {
 
         System.out.println("first value typed: " + firstValueInput);
         System.out.println("second value typed: " + secondValueInput);
-
     }
 }
